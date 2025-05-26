@@ -2,137 +2,165 @@
     "top_n_overall": [
         {
             "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/pubspec.yaml",
-            "count": 10
+            "count": 137
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/.dart_tool/package_config.json",
-            "count": 7
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/lib/main.dart",
-            "count": 6
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/pubspec.lock",
-            "count": 5
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/linux/flutter/generated_plugin_registrant.cc",
-            "count": 5
+            "count": 49
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/windows/flutter/generated_plugin_registrant.h",
-            "count": 4
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/windows/flutter/generated_plugin_registrant.cc",
-            "count": 4
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/.flutter-plugins",
-            "count": 4
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/.flutter-plugins-dependencies",
-            "count": 4
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/.dart_tool/version",
-            "count": 3
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/.dart_tool/package_config_subset",
-            "count": 3
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/.dart_tool/dartpad/web_plugin_registrant.dart",
-            "count": 3
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java",
-            "count": 3
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/ios/Runner/GeneratedPluginRegistrant.h",
-            "count": 3
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/ios/Runner/GeneratedPluginRegistrant.m",
-            "count": 3
+            "count": 35
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/linux/flutter/generated_plugin_registrant.h",
-            "count": 3
+            "count": 32
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/linux/flutter/generated_plugin_registrant.cc",
+            "count": 32
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/windows/flutter/generated_plugin_registrant.cc",
+            "count": 31
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/linux/flutter/generated_plugins.cmake",
-            "count": 3
+            "count": 31
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/lib/main.dart",
+            "count": 31
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/macos/Flutter/GeneratedPluginRegistrant.swift",
-            "count": 3
+            "count": 29
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/windows/flutter/generated_plugins.cmake",
-            "count": 3
+            "count": 29
         },
         {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/windows/runner/main.cpp",
-            "count": 1
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/.flutter-plugins",
+            "count": 28
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/.flutter-plugins-dependencies",
+            "count": 28
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/.gitignore",
+            "count": 23
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/linux/flutter/CMakeLists.txt",
+            "count": 22
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/android/.gitignore",
+            "count": 22
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/ios/.gitignore",
+            "count": 22
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/linux/.gitignore",
+            "count": 22
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/macos/.gitignore",
+            "count": 22
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/windows/.gitignore",
+            "count": 22
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/pubspec.lock",
+            "count": 21
         }
     ],
     "top_n_last_10_min_accessed": [
         {
             "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/pubspec.yaml",
-            "count": 7
+            "count": 134
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/.dart_tool/package_config.json",
-            "count": 4
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/pubspec.lock",
-            "count": 2
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/windows/flutter/generated_plugin_registrant.h",
-            "count": 1
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/windows/runner/main.cpp",
-            "count": 1
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/windows/flutter/generated_plugin_registrant.cc",
-            "count": 1
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/.flutter-plugins",
-            "count": 1
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/.flutter-plugins-dependencies",
-            "count": 1
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/android/local.properties",
-            "count": 1
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/android/gradle.properties",
-            "count": 1
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/ios/Runner.xcodeproj/project.pbxproj",
-            "count": 1
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/macos/Runner.xcodeproj/project.pbxproj",
-            "count": 1
+            "count": 46
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/lib/main.dart",
-            "count": 1
+            "count": 26
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/.gitignore",
+            "count": 23
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/linux/flutter/CMakeLists.txt",
+            "count": 22
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/android/.gitignore",
+            "count": 22
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/ios/.gitignore",
+            "count": 22
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/linux/.gitignore",
+            "count": 22
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/macos/.gitignore",
+            "count": 22
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/windows/.gitignore",
+            "count": 22
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/lib/containers/color_craft_container.dart",
+            "count": 19
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/lib/services/meme_service.dart",
+            "count": 19
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/android/gradle.properties",
+            "count": 17
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/ios/Runner.xcodeproj/project.pbxproj",
+            "count": 17
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/macos/Runner.xcodeproj/project.pbxproj",
+            "count": 17
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/linux/CMakeLists.txt",
+            "count": 16
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/pubspec.lock",
+            "count": 15
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/linux/flutter/generated_plugins.cmake",
+            "count": 13
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/linux/runner/CMakeLists.txt",
+            "count": 13
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/dailymemegen-124866-124872/daily_meme_gen/linux/runner/my_application.h",
+            "count": 13
         }
     ]
 }
